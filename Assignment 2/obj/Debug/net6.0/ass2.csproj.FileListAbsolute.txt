@@ -1,0 +1,15 @@
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ass2.csproj.AssemblyReference.cache
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ass2.AssemblyInfoInputs.cache
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ass2.AssemblyInfo.cs
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ass2.csproj.CoreCompileInputs.cache
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\bin\Debug\net6.0\ass2.exe
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\bin\Debug\net6.0\ass2.deps.json
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\bin\Debug\net6.0\ass2.runtimeconfig.json
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\bin\Debug\net6.0\ass2.dll
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\bin\Debug\net6.0\ass2.pdb
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ass2.dll
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\refint\ass2.dll
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ass2.pdb
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ass2.genruntimeconfig.cache
+C:\Users\Tauheed\OneDrive\Documents\UNI Codes\PnDC\ass2\obj\Debug\net6.0\ref\ass2.dll
